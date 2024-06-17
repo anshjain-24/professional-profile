@@ -1,0 +1,14 @@
+1. Create an empty folder. 
+
+2. install vite(it is a bundler which is used to create react webapps easily and quickly) command: npm install vite
+
+3. open terminal create a Vite React project using this command : npm create vite@latest ./ -- --template react
+
+4. Install tailwind : npm install -D tailwindcss
+
+5. Initialize tailwind : npx tailwindcss init
+
+6. Installing Necessary Packages (like 3-js, react router dom etc. ), run this command : 
+
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom 
+
